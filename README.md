@@ -2,4 +2,6 @@ This project is about comparing the single and ensembled machine learning's perf
 
 There are 3 different locations that the writer set as the pinned location, they are Royal Armouries Museum, Trinity Shopping Centre, and Headingley Stadium, so there are 3 different files as each of the location has its own dataset. 
 
+In addition, there are statistical analysis done for the results to proof the significance of the difference using 5x2 cross validation paired t-test.
+
 Disclaimer : This code is developed and documented for the dissertation project of the writer. Any references from other sources will be included inside the file in the description section.
